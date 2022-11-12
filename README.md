@@ -10,7 +10,8 @@ process mining, etc..) para empresas de sectores muy diferentes (aunque es verda
 que es lo que me gusta.
 
 📚 También me apasiona el mundo de la formación: ya mientras estudiaba la carrera impartía formaciones básicas de introducción a internet y ofimática, y posteriormente
-al terminar la licenciatura realicé el Curso de Adaptación Pedagógica (CAP) para poder impartir formaciones. 
+al terminar la licenciatura realicé el Curso de Adaptación Pedagógica (CAP) para poder impartir formaciones, algo que no he dejado de hacer siempre que he podido en 
+todos mis trabajos, ya que creo que la mejor forma de disfrutar trabajando es enseñando y que te enseñen.
 Durante el año 2022 he realizado también un máster para reciclarme y adaptarme a las posibilidades que nos ofrece la formación online.
 
 ♻️ Siempre estaré en deuda con la comunidad que tanto me ha aportado y me ha ayudado, y por eso no es raro que me líen para temas de voluntariado, de diferentes tipos, que aprovecho para devolver todas esas aportaciones, y compartir mis experiencias: desde formación a mentorización (https://www.teacht3ch.com/), pasando por iniciativas de acompañamiento e impulso de las TIC/STEAM en las chicas (https://inspirasteam.net/)
