@@ -2,7 +2,7 @@
 
 👀 Soy Ingeniero Informático por la Universidade de A Coruña; empecé en esto por pura vocación con mi 🏳️‍🌈 ZX Spectrum, y llevo más de 20 años trabajando en 
 las Tecnologías de la Información y Comunicaciones. He tenido la suerte de poder participar en proyectos de todo tipo (desarrollo de software, business intelligence, 
-etc..) para empresas de sectores muy diferentes (aunque es verdad que principalmente han sido bancos y aseguradoras).
+process mining, etc..) para empresas de sectores muy diferentes (aunque es verdad que principalmente han sido bancos y aseguradoras).
 
 💼 Aproximadamente la mitad de mi carrera la he desarrollado como Consultor Externo, y la otra mitad incorporado directamente en plantilla de grandes corporaciones.
 
@@ -18,6 +18,8 @@ Durante el año 2022 he realizado también un máster para reciclarme y adaptarm
 🧪 Utilizaré estos repositorios como mi laboratorio personal, donde iré dejando diferentes ejercicios, prácticas y experimentos que me sirvan para seguir aprendiendo. 
 
 🎓 En 2022 me he incorporado como profesor de FP en una organización de formación online, por lo que también subiré por aquí temas relacionados.
+
+🧰 Inicialmente estoy enseñando bases de datos, acceso a datos, programación multimedia y dispositivos móviles, y programación de servicios y procesos, por lo que la mayoría de los repositorios seguramente serán de estos temas. Y por ahora están un poco "desordenados", en cuanto tenga tiempo, sacaré la escoba para poner orden.
 
 📫 Soy fácil de encontrar, como os decía mi nombre de usuario o nick es el mismo en las diferentes redes.
 
