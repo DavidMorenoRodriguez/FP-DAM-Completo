@@ -13,7 +13,11 @@ que es lo que me gusta.
 al terminar la licenciatura realicé el Curso de Adaptación Pedagógica (CAP) para poder impartir formaciones. 
 Durante el año 2022 he realizado también un máster para reciclarme y adaptarme a las posibilidades que nos ofrece la formación online.
 
+♻️ Siempre estaré en deuda con la comunidad que tanto me ha aportado y me ha ayudado, y por eso no es raro que me líen para temas de voluntariado, de diferentes tipos, que aprovecho para devolver todas esas aportaciones, y compartir mis experiencias: desde formación a mentorización (https://www.teacht3ch.com/), pasando por iniciativas de acompañamiento e impulso de las TIC/STEAM en las chicas (https://inspirasteam.net/)
+
 🧪 Utilizaré estos repositorios como mi laboratorio personal, donde iré dejando diferentes ejercicios, prácticas y experimentos que me sirvan para seguir aprendiendo. 
+
+🎓 En 2022 me he incorporado como profesor de FP en una organización de formación online, por lo que también subiré por aquí temas relacionados.
 
 📫 Soy fácil de encontrar, como os decía mi nombre de usuario o nick es el mismo en las diferentes redes.
 
