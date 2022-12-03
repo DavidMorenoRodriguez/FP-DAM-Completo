@@ -1,8 +1,6 @@
 👋 Hola, soy Oscar Viñan, @ovinan por aquí y en diferentes redes sociales.
 
-👀 Soy Ingeniero Informático por la Universidade de A Coruña; empecé en esto por pura vocación con mi 🏳️‍🌈 ZX Spectrum, y llevo más de 20 años trabajando en 
-las Tecnologías de la Información y Comunicaciones. He tenido la suerte de poder participar en proyectos de todo tipo (desarrollo de software, business intelligence, 
-process mining, etc..) para empresas de sectores muy diferentes (aunque es verdad que principalmente han sido bancos y aseguradoras).
+👀 Soy Ingeniero Informático por la Universidade de A Coruña; empecé en esto por pura vocación con mi 🏳️‍🌈 ZX Spectrum allá por los años 90, y llevo desde entonces dando guerra en esto de las Tecnologías de la Información y Comunicaciones. He tenido la suerte de poder participar en proyectos de todo tipo (desarrollo de software, business intelligence, process mining, etc..) para empresas de sectores muy diferentes (aunque es verdad que principalmente han sido bancos y aseguradoras).
 
 💼 Aproximadamente la mitad de mi carrera la he desarrollado como Consultor Externo, y la otra mitad incorporado directamente en plantilla de grandes corporaciones.
 
